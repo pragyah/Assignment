@@ -1,9 +1,11 @@
-# ABOUT MYSELF
-## INTRODUCTION
+INTRODUCTION:
+
 Hello, My name is Pragya Humagain. I am from Hetauda, Makawanpur. 
 I'm final year student of Hetauda School of Management currently 
 studying Bachelors in Information Management (BIM).  
-## Learning Journey
+
+Learning Journey:
+
 Git and Github are completely new term for me. I've got 
 opportunity to learn these through GCA. GCA provided us 3 days 
 session/training on Git & Github. last two days were amazing, 
